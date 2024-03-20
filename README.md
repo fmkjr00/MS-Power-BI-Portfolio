@@ -3,7 +3,7 @@ These are the reports I created using Microsoft Power BI as part of my Data Anal
 
 *Project objective:*
 
-    **1.** Create a reimbursement analytics report.   
+    **1.** Create a reimbursement analytics report. (https://github.com/fmkjr00/MS-Power-BI-Portfolio/blob/main/Reimbursement%20Analysis%20-%20Module%202.pdf)
     
 *Process:*
     
